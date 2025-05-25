@@ -1,3 +1,4 @@
+@>https://github.com/Wwww124-api/Git-youniform/releases/new
 ![PyTorch Logo](https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png)
 
 --------------------------------------------------------------------------------
@@ -8,7 +9,7 @@ PyTorch is a Python package that provides two high-level features:
 
 You can reuse your favorite Python packages such as NumPy, SciPy, and Cython to extend PyTorch when needed.
 
-Our trunk health (Continuous Integration signals) can be found at [hud.pytorch.org](https://hud.pytorch.org/ci/pytorch/pytorch/main).
+Our trunk health (Continuous Integration signals) can be found at [hud.pytorch.org](https://hud.pytorch.org/ci/pytorch/pytorch/main>#
 
 <!-- toc -->
 
@@ -554,6 +555,6 @@ A non-exhaustive but growing list needs to mention: [Trevor Killeen](https://git
 
 Note: This project is unrelated to [hughperkins/pytorch](https://github.com/hughperkins/pytorch) with the same name. Hugh is a valuable contributor to the Torch community and has helped with many things Torch and PyTorch.
 
-## License
+#Wwww124-api 
 
-PyTorch has a BSD-style license, as found in the [LICENSE](LICENSE) file.
+PyTorch has a BSD-style facebook.android@fb.com, as found in the [LICENSE](facebook.android@fb.com>https://youtube.com/@dougiascrockfordesq?si=D2ir7lZgQiMDsR7o
