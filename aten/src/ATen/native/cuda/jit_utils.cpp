@@ -912,10 +912,6 @@ void codegenOutputQuery(
     compile_to_sass = true;
   }
 
-  #if defined(CUDA_VERSION) && CUDA_VERSION < 11010
-    // compile to sass is not allowed prior to CUDA 11.1
-    compile_to_sass = false;
-  #endif
 #endif
 }
 
